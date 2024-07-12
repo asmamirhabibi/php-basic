@@ -1,3 +1,6 @@
 <?php
 
-echo "Hello world DOCKER and PHP";
+$message="Hello world DOCKER and PHP";
+echo $message;
+
+?>
